@@ -5,7 +5,7 @@ This is simple code written in python 3.
 ## Dependencies for cheats:
 - keyboard (install with: ``` pip install keyboard ```)
 
-## Instructions:
+### Instructions:
 1. Run cheats.py
 2. Paste the text or characters you want to type
 3. Change to ATF app (you will have 4 second delay)
